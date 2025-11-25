@@ -13,7 +13,7 @@ A high-performance FastAPI service for ingesting and querying heart rate data fr
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/brandondelpozo/challenge-sonar-health
 cd challenge-sonar-health
 
 # Install dependencies using uv (recommended)
